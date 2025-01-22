@@ -4,4 +4,6 @@ Link (https://github.com/SangameshSonale/Campaign-Insights-and-Optimization-Anal
 Link (https://public.tableau.com/app/profile/sangamesh.sonale/viz/AnalysisofMassDOEData_17340445430830/AnalysisofMassDOEData)
 # My Likend Overview Dashboard
 Link (https://public.tableau.com/app/profile/sangamesh.sonale/viz/MyLinkedInDashboard_17339738886420/MyLinkedInDashboard)
+# WorldBankLoanDataAnalysis
+Link (https://github.com/SangameshSonale/WorldBankLoanDataAnalysis)
 
