@@ -8,4 +8,7 @@
 (https://github.com/SangameshSonale/WorldBankLoanDataAnalysis)
 ### Comprehensive SQL Healthcare Analytics:
 https://github.com/SangameshSonale/HealthCare-Project/blob/main/README.md
+### NBA Sports Dashboard
+https://public.tableau.com/app/profile/sangamesh.sonale/viz/NBASportsDashboard/AnalysisforSportsTeamandTheirPositions?publish=yes
+
 
